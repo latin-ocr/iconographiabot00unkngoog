@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./iconographiabot00unkngoog_0183.png"; bbox 0 0 4734 6492; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 699 681 3931 5347">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 699 681 3931 5347">
+     <span class='ocr_line' id='line_1_1' title="bbox 699 681 3931 5347; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 699 681 3931 5347; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 513 5687 1129 5754">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 513 5687 1129 5754">
+     <span class='ocr_line' id='line_1_2' title="bbox 513 5687 1129 5754; baseline 0.019 -12"><span class='ocrx_word' id='word_1_2' title='bbox 513 5687 519 5727; x_wconf 66' lang='grc' dir='ltr'><strong>ἲ</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 623 5703 1011 5753; x_wconf 44' lang='lat' dir='ltr'><em>zara-adamo&lt;</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1041 5706 1129 5754; x_wconf 61' lang='grc' dir='ltr'><em>λι.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1607 5526 2989 5700">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1530 5462 2989 5700">
+     <span class='ocr_line' id='line_1_3' title="bbox 1607 5526 2989 5700; baseline 0.002 -58.842"><span class='ocrx_word' id='word_1_5' title='bbox 1607 5526 2223 5683; x_wconf 46' lang='lat' dir='ltr'><em>&amp;wuda</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 2277 5558 2854 5700; x_wconf 48' lang='lat' dir='ltr'><em>sammua.</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 2883 5572 2989 5644; x_wconf 70' lang='lat' dir='ltr'><em>L.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 3456 5702 3777 5754">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 3456 5702 3777 5754">
+     <span class='ocr_line' id='line_1_4' title="bbox 3456 5702 3777 5754; baseline 0 -2"><span class='ocrx_word' id='word_1_8' title='bbox 3456 5702 3523 5752; x_wconf 73' lang='lat' dir='ltr'><em>[l</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 3548 5706 3777 5754; x_wconf 60' lang='lat' dir='ltr'><em>Jd...r..n</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

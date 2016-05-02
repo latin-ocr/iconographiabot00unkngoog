@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./iconographiabot00unkngoog_0217.png"; bbox 0 0 4734 6492; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 3573 5603 3990 5657">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 3573 5603 3990 5657">
+     <span class='ocr_line' id='line_1_1' title="bbox 3573 5603 3990 5657; textangle 270"><span class='ocrx_word' id='word_1_1' title='bbox 3932 5633 3990 5657; x_wconf 63' lang='grc' dir='ltr'><strong>ξ</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 3688 5603 3886 5654; x_wconf 53' lang='grc' dir='ltr'>,ἓξ</span> <span class='ocrx_word' id='word_1_3' title='bbox 3573 5604 3663 5655; x_wconf 45' lang='grc' dir='ltr'>,ὃ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 823 5579 1483 5646">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 823 5579 1483 5646">
+     <span class='ocr_line' id='line_1_2' title="bbox 823 5579 1483 5646; textangle 270"><span class='ocrx_word' id='word_1_4' title='bbox 1478 5607 1483 5610; x_wconf 88' lang='grc'>.</span> <span class='ocrx_word' id='word_1_5' title='bbox 1319 5590 1442 5646; x_wconf 42' lang='lat' dir='ltr'>§N</span> <span class='ocrx_word' id='word_1_6' title='bbox 1023 5593 1299 5644; x_wconf 41' lang='grc' dir='ltr'>Ξῆῖ</span> <span class='ocrx_word' id='word_1_7' title='bbox 823 5579 995 5635; x_wconf 52' lang='lat' dir='ltr'>‚ffldmx</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 916 642 4135 5569">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 916 642 4135 5569">
+     <span class='ocr_line' id='line_1_3' title="bbox 916 642 4135 5569; textangle 270"><span class='ocrx_word' id='word_1_8' title='bbox 916 642 4135 5569; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
